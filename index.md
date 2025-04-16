@@ -1,4 +1,4 @@
-<div data-aos="fade-up">
+<div class="fade-up">
 <h1>Welcome to My AI Learning Blog</h1>
 <p>
 One way to improve your learning is to blog about what you've learned and how you've solved problems. This blog is my space to do exactly that.
