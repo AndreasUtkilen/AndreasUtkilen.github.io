@@ -2,7 +2,7 @@
 
 One way to improve your learning is to blog about what you've learned and how you've solved problems. This blog is my space to do exactly that.
 
-As I go through the [fastai](https://www.fast.ai/) course, I'll document my journey, share my solutions, and reflect on the concepts I'm exploring.
+As I go through the ELEC4630 and [fastai](https://www.fast.ai/) courses, I'll document my journey, share my solutions, and reflect on the concepts I'm exploring.
 
 This blog also serves as a practical way to learn and use Git and GitHub by maintaining and publishing content regularly.
 
