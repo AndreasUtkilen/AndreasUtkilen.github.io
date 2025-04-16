@@ -1,3 +1,5 @@
+<p style="--stagger: 1" data-animate>
+
 # Welcome to My AI Learning Blog
 
 One way to improve your learning is to blog about what you've learned and how you've solved problems. This blog is my space to do exactly that.
@@ -14,3 +16,4 @@ Stay tuned for updates on:
 - Projects I’m building using AI
 
 Thanks for visiting!
+</p>
